@@ -13,7 +13,7 @@ enum Gender {
   MALE,
 }
 
-// food stock
+// food stock -- NOT USED
 export enum Stock {
   IN_STOCK,
   OUT_OF_STOCK,
